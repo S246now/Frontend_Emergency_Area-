@@ -1,0 +1,31 @@
+.nav{
+    background: #26668C;
+    height: 60px;
+    padding: 0px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #02385A;
+}
+
+.title{
+    font-size: 32px;
+    color: white;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.session{
+    color: white;
+}
+
+.perfil{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
